@@ -1,0 +1,22 @@
+﻿Main Menu =>
+
+Prompt for username =>
+
+save username to state =>
+
+prompt for waterfall choice =>
+
+Waterfall 1 =>
+	Select phone number
+	confirm
+Waterfall 2 =>
+	Select favorite pet breed
+	confirm
+Waterfall 3 => 
+	Select favorite color
+	confirm
+
+Main menu after completion of each waterfall. 
+
+ID Go
+

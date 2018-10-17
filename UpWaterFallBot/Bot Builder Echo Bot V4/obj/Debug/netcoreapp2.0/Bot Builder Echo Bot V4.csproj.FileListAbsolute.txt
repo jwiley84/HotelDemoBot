@@ -1,0 +1,12 @@
+c:\users\v-jewail\source\repos\UpWaterFallBot\UpWaterFallBot\Bot Builder Echo Bot V4\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+c:\users\v-jewail\source\repos\UpWaterFallBot\UpWaterFallBot\Bot Builder Echo Bot V4\bin\Debug\netcoreapp2.0\Bot Builder Echo Bot V4.deps.json
+c:\users\v-jewail\source\repos\UpWaterFallBot\UpWaterFallBot\Bot Builder Echo Bot V4\bin\Debug\netcoreapp2.0\Bot Builder Echo Bot V4.runtimeconfig.json
+c:\users\v-jewail\source\repos\UpWaterFallBot\UpWaterFallBot\Bot Builder Echo Bot V4\bin\Debug\netcoreapp2.0\Bot Builder Echo Bot V4.runtimeconfig.dev.json
+c:\users\v-jewail\source\repos\UpWaterFallBot\UpWaterFallBot\Bot Builder Echo Bot V4\bin\Debug\netcoreapp2.0\Bot Builder Echo Bot V4.dll
+c:\users\v-jewail\source\repos\UpWaterFallBot\UpWaterFallBot\Bot Builder Echo Bot V4\bin\Debug\netcoreapp2.0\Bot Builder Echo Bot V4.pdb
+c:\users\v-jewail\source\repos\UpWaterFallBot\UpWaterFallBot\Bot Builder Echo Bot V4\obj\Debug\netcoreapp2.0\Bot Builder Echo Bot V4.csprojAssemblyReference.cache
+c:\users\v-jewail\source\repos\UpWaterFallBot\UpWaterFallBot\Bot Builder Echo Bot V4\obj\Debug\netcoreapp2.0\Bot Builder Echo Bot V4.csproj.CoreCompileInputs.cache
+c:\users\v-jewail\source\repos\UpWaterFallBot\UpWaterFallBot\Bot Builder Echo Bot V4\obj\Debug\netcoreapp2.0\Bot Builder Echo Bot V4.AssemblyInfoInputs.cache
+c:\users\v-jewail\source\repos\UpWaterFallBot\UpWaterFallBot\Bot Builder Echo Bot V4\obj\Debug\netcoreapp2.0\Bot Builder Echo Bot V4.AssemblyInfo.cs
+c:\users\v-jewail\source\repos\UpWaterFallBot\UpWaterFallBot\Bot Builder Echo Bot V4\obj\Debug\netcoreapp2.0\Bot Builder Echo Bot V4.dll
+c:\users\v-jewail\source\repos\UpWaterFallBot\UpWaterFallBot\Bot Builder Echo Bot V4\obj\Debug\netcoreapp2.0\Bot Builder Echo Bot V4.pdb
